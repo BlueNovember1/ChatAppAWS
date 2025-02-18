@@ -26,7 +26,7 @@ From class "Zastosowanie rozwiązań chmurowych w aplikacjach webowych"
 
 ## 📁 `app`
 - This folder contains chat application in the main application, which consists of a separate backend (Spring Boot) and frontend (React).
-- The application has been deployed and can be accessed at: **https://www.youtube.com/watch?v=o_IjEDAuo8Y**
+- The application has been deployed (I do not own it) and can be accessed at: **https://www.youtube.com/watch?v=o_IjEDAuo8Y**
 
 ## 📁 `cert`
 - Stores certificates used for HTTPS encryption.
