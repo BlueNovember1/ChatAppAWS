@@ -1,0 +1,7 @@
+FROM openjdk:17-jdk-alpine
+
+WORKDIR /app
+
+COPY ../app/ChatApplication-main/spring-ws-server/target/chat-0.0.1-SNAPSHOT.jar /app/chat.jar
+
+CMD ["java", "-jar", "/app/chat.jar"]
